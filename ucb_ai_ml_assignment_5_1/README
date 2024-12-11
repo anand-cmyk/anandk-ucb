@@ -1,4 +1,10 @@
-#Investigation of "Bar" Coupon yielded following observations and conclusion
+
+# link to Jupyter notebook
+# https://github.com/anand-cmyk/anandk-ucb/blob/main/ucb_ai_ml_assignment_5_1/assignment_5_1.ipynb
+
+# Required Assignment 5.1: Will the Customer Accept Coupon?
+
+Section 1 : Investigation of "Bar" Coupon yielded following observations and conclusion
 
 # Summary
 #1) Proportion of the  observations that chose to accept the bar coupon:  0.4099502487562189
@@ -14,9 +20,9 @@
 #a) People went to went bar more than 3 times a month were the most likely to accept a Bar coupon
 #b) People who went to bar at least once a month had reaonable chance of accepting the coupon and acceptance rate seems to higher in younger people (< 25 years)
 
-==============================================================
+================================================================================================================================================================
 
-#Investigation of "Coffee House" yielded following observations and conclusion
+Section 2: Investigation of "Coffee House" coupon yielded following observations and conclusion
 
 # Summary
 # Acceptance rate of coffee coupon:  0.4986212083228879
@@ -31,3 +37,6 @@
 # Acceptance rate is higher for coffee coupon than bar coupons
 # People who visited coffee house more than 3 times a month were most likely to accept the coffee coupon
 # Also, the acceptance rate seems higher if the desitination was not work or home
+
+#END
+
