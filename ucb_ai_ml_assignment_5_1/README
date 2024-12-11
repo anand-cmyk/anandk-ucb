@@ -1,0 +1,33 @@
+#Investigation of "Bar" Coupon yielded following observations and conclusion
+
+# Summary
+#1) Proportion of the  observations that chose to accept the bar coupon:  0.4099502487562189
+#2) Acceptance rate between those who went to a bar 3 or fewer times a month: 0.370391061452514
+#3) Acceptance rate between those who went to a bar more than 3 times a month:  0.7688442211055276
+#4) Acceptance Rate age > 25 & Bar more than once a month: 0.6952380952380952
+#5) Acceptance Rate >1 time bar & Passenger not kid & non-farming: 0.7132486388384754
+#6.1) Acceptance Rate >1 bar & Passenger not kid & !widow: 0.7132486388384754
+#6.2) Acceptance Rate >1 bar & Age <30 0.7217391304347827
+#6.3) Acceptance Rate low income, cheap restaurants 0.45722713864306785
+
+# Conclusion: 
+#a) People went to went bar more than 3 times a month were the most likely to accept a Bar coupon
+#b) People who went to bar at least once a month had reaonable chance of accepting the coupon and acceptance rate seems to higher in younger people (< 25 years)
+
+==============================================================
+
+#Investigation of "Coffee House" yielded following observations and conclusion
+
+# Summary
+# Acceptance rate of coffee coupon:  0.4986212083228879
+# Acceptance rate between those who went to a coffee house 3 or fewer times a month 0.448469
+# Acceptance rate between those who went to a coffee house more than 3 times 0.675000
+# Acceptance Rate age > 25 & Coffee House more than once a month: 0.638109305760709
+# Acceptance Rate for coffee coupon with destination as Home  0.3641364136413641
+# Acceptance Rate for coffee coupon with destination as Work  0.44567627494456763
+# Acceptance Rate for coffee coupon with destination as neither Home nor Work  0.5807217473884141
+
+# Conclusion
+# Acceptance rate is higher for coffee coupon than bar coupons
+# People who visited coffee house more than 3 times a month were most likely to accept the coffee coupon
+# Also, the acceptance rate seems higher if the desitination was not work or home
